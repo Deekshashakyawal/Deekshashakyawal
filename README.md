@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** and final-year Computer Science studen
 - **Pursuing** Bachelor's in Computer Science & Engineering
 - **Open Source Mentor** at GSSoC '24 Extended
 - **Open Source Contributor** at GSSoC '24
-- **Open Source Contributor** at Hacktoberfest 2024
+- **Open Source Contributor** at Hacktoberfest 2024 and 2025
 ---
 
 
